@@ -1,6 +1,9 @@
 # PreprocessingUCLA  
 We provide a preprocessing pipeline for the UCLA data (https://openneuro.org/datasets/ds000030/versions/00016).
 
+## Install ANTs
+
+
 ## Head motion correction
 
 ## Registration to a brain template  

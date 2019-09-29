@@ -10,6 +10,7 @@ cp ~/PreprocessingUCLA/code/build.sh ~/ANTs/bin
 cd ~/ANTs/bin  
 sh build.sh
 ```
+Hit "c" and hit "c" again and hit "g", see https://github.com/ANTsX/ANTs/wiki/Compiling-ANTs-on-Linux-and-Mac-OS#run-cmake-to-configure-the-build  
 
 ## Head motion correction
 

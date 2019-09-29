@@ -1,5 +1,5 @@
 # PreprocessingUCLA  
-We provide a preprocessing pipeline for the UCLA data (https://openneuro.org/datasets/ds000030/versions/00016)
+We provide a preprocessing pipeline for the UCLA data (https://openneuro.org/datasets/ds000030/versions/00016).
 
 ## Head motion correction
 

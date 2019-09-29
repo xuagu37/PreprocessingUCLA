@@ -12,6 +12,15 @@ sh build.sh
 ```
 Hit "c" and hit "c" again and hit "g", see https://github.com/ANTsX/ANTs/wiki/Compiling-ANTs-on-Linux-and-Mac-OS#run-cmake-to-configure-the-build  
 
+## Install ART
+Download and extract  
+https://www.nitrc.org/projects/art/  
+Set path  
+```bash
+export ARTHOME=/home/xuagu37/ART  
+export PATH=$ARTHOME/bin:$PATH  
+```
+
 ## Head motion correction
 
 ## Registration to a brain template  

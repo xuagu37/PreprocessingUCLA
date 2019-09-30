@@ -25,7 +25,8 @@ export PATH=$ARTHOME/bin:$PATH
 
 ## Registration to a brain template  
 
-### epi_reg + flirt/fnirt
+### FSL(epi_reg + flirt + fnirt)
+https://www.jiscmail.ac.uk/cgi-bin/webadmin?A2=FSL;2064419a.1506
 
 ### ANTS-SyN
 

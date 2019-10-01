@@ -31,3 +31,4 @@ https://www.jiscmail.ac.uk/cgi-bin/webadmin?A2=FSL;2064419a.1506
 ### ANTS-SyN
 
 ### ART
+ART only works for the datatype short.

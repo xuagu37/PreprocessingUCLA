@@ -21,23 +21,3 @@ export ANTSPATH=/home/xuagu37/ANTs/bin/ANTS-build/Examples
 export PATH=${ANTSPATH}:$PATH  
 ```
 
-## Install ART
-Download and extract  
-https://www.nitrc.org/projects/art/  
-Set path  
-```bash
-export ARTHOME=/home/xuagu37/ART  
-export PATH=$ARTHOME/bin:$PATH  
-```
-
-## Head motion correction
-
-## Registration to a brain template  
-
-### FSL(epi_reg + flirt + fnirt)
-https://www.jiscmail.ac.uk/cgi-bin/webadmin?A2=FSL;2064419a.1506
-
-### ANTS-SyN
-
-### ART
-ART only works for the datatype short.

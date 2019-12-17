@@ -2,7 +2,7 @@
 clear
 close all
 path1 = getenv('PATH');
-path1 = [path1 ':/usr/local/bin' ':/home/xuagu37/ART/bin' ':/home/xuagu37/ANTs/bin/ANTS-build/Examples'];
+path1 = [path1 ':/usr/local/bin', ':/home/xuagu37/ANTs/bin/ANTS-build/Examples'];
 setenv('PATH', path1);
 setenv('ANTSPATH', '/home/xuagu37/ANTs/bin/ANTS-build/Examples');
 listing = dir('/mnt/wd12t/Data_bank/UCLA/sub-*');
